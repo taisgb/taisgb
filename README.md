@@ -9,7 +9,7 @@ Focada em construir interfaces limpas, responsivas e acessíveis.
 
 ### 🛠️ Tecnologias
 
-- HTML5 | CSS3 | JavaScript  
+- HTML5 | CSS3 | JavaScript | React.js
 - Bootstrap  
 - Git e GitHub  
 - Power BI (básico)  
