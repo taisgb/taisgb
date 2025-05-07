@@ -23,7 +23,9 @@ Focada em construir interfaces limpas, responsivas e acessíveis.
 - **Full Stack Developer Career** – DevMedia  
 - **Mentoria em Cibersegurança** – CyberSecurityGirls BR  
 - **Microsoft AI for Tech (Azure Databricks)** – DIO  
-- **Power BI** – Santander Academy  
+- **Power BI** – Santander Academy
+- **Python** - DIO
+- **React** - DIO
 
 ---
 
