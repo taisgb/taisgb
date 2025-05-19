@@ -12,7 +12,7 @@ Focada em construir interfaces limpas, responsivas e acessíveis.
 - HTML5 | CSS3 | JavaScript | React.js
 - Bootstrap  
 - Git e GitHub  
-- Power BI (básico)  
+- Power BI | Excel | SQL  
 
 ---
 
