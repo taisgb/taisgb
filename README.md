@@ -2,7 +2,7 @@
 
 <p align="center">
 Desenvolvedora Front-end em formação | Sistemas de Informação 📚<br>
-Focada em construir interfaces limpas, responsivas e acessíveis.
+
 </p>
 
 ---
