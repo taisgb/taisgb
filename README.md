@@ -9,7 +9,7 @@ Focada em construir interfaces limpas, responsivas e acessíveis.
 
 ### 🛠️ Tecnologias
 
-- HTML5 | CSS3 | JavaScript | React.js
+- HTML5 | CSS3 | JavaScript | React.js | React Native
 - Node | Python
 - Bootstrap  
 - Git e GitHub  
