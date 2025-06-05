@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 Oi, eu sou a Taís!</h1>
 
 <p align="center">
-Desenvolvedora Front-end em formação | Sistemas de Informação 📚<br>
+Desenvolvedora em formação | Sistemas de Informação 📚<br>
 
 </p>
 
