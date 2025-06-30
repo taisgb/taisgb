@@ -12,7 +12,7 @@ Desenvolvedora em formação | Sistemas de Informação 📚<br>
 - HTML5 | CSS3 | JavaScript | React.js
 - React Native
 - Node | Python
-- Bootstrap  
+- Bootstrap | Tailwind CSS
 - Git e GitHub  
 - Power BI | Excel | SQL  
 
